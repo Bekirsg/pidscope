@@ -1,2 +1,3 @@
 # pidscope
 AI-powered industrial PID loop performance analysis platform
+It will be published as soon as possible...
